@@ -1,0 +1,1 @@
+print ("abobora, jiló, pepino, batata, brócolis")
